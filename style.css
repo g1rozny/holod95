@@ -1,0 +1,21 @@
+header {
+	display: block;
+	float: none;
+	clear: both;
+	border: 1px solid red;
+}
+
+
+ul {
+display: block;
+list-style: none;
+float: none;
+}
+
+li {
+	float:left;
+}
+
+.clear {
+	clear: both;
+}
